@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AniBett
-- 👀 I’m interested in Frontend Web Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: anibettedpur@gmail.com
